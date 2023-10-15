@@ -1,0 +1,15 @@
+Phone Model Name: Oneplus Nord 2T
+
+Specifications:
+
+Processor: Dimensity 1300
+RAM: 8GB 
+Storage: 128GB
+Display: 6.43 inches, 99.8 cm2 (~85.7% screen-to-body ratio)
+Camera: 1080 x 2400 pixels 50MP 4320p
+Battery: 80W wired, PD100% in 24 min
+Operating System: Android 13 OxygenOS 13
+Connectivity: Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct
+Additional Features: Fingerprint (under display, optical), accelerometer, gyro, proximity, compass
+Why Choose Xiamo 13 Pro?
+packing a gorgeous screen, stellar camera system, beasty battery life, and lightning quick internals.
