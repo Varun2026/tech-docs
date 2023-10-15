@@ -60,18 +60,15 @@ Note: This is a generic template. Please replace the placeholders with actual sp
 
 ```
 
-6. **Add and Commit Your Changes:** Commit your changes with a descriptive commit message. 💬
+6. **Commit Your Changes:** Commit your changes with a descriptive commit message. 💬
 
-   ```bash
-   git add file_name
-   ```
    ```bash
    
    git commit -m "Add 'Mobile Phones' documentation"
    
    ```
 
-8. **Push to Your Fork:** Push your changes to your GitHub fork. 🚀
+7. **Push to Your Fork:** Push your changes to your GitHub fork. 🚀
 
    ```bash
    
@@ -80,9 +77,9 @@ Note: This is a generic template. Please replace the placeholders with actual sp
    ```
 
 
-9. **Open a Pull Request:** Submit a Pull Request (PR) to the main repository under the respective category. Include a clear title and description of your changes. 🎯
+8. **Open a Pull Request:** Submit a Pull Request (PR) to the main repository under the respective category. Include a clear title and description of your changes. 🎯
 
-10. **Review and Merge:** We will review your PR, and if it meets our guidelines, it will be merged into the documentation. 🤝
+9. **Review and Merge:** We will review your PR, and if it meets our guidelines, it will be merged into the documentation. 🤝
 
 ## Code of Conduct
 
